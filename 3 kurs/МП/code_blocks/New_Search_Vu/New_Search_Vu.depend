@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1639075684 source:/home/axiscuber/Desktop/code_blocks/New_Search_Vu/main.cpp
+	"KMP.h"
+	"RP.h"
+	"Auto.h"
+	"BM.h"
+	<fstream>
+
+1639075220 /home/axiscuber/Desktop/code_blocks/New_Search_Vu/KMP.h
+	<iostream>
+	<string>
+
+1639075266 /home/axiscuber/Desktop/code_blocks/New_Search_Vu/RP.h
+	<iostream>
+	<string>
+	<math.h>
+
+1639075146 /home/axiscuber/Desktop/code_blocks/New_Search_Vu/Auto.h
+	<iostream>
+	<string>
+
+1639075178 /home/axiscuber/Desktop/code_blocks/New_Search_Vu/BM.h
+	<iostream>
+	<string>
+
+1639075006 source:/home/axiscuber/Desktop/code_blocks/New_Search_Vu/Auto.cpp
+	"Auto.h"
+	"KMP.h"
+
+1639743655 source:/home/axiscuber/Desktop/code_blocks/New_Search_Vu/BM.cpp
+	"BM.h"
+
+1639073233 source:/home/axiscuber/Desktop/code_blocks/New_Search_Vu/KMP.cpp
+	"KMP.h"
+
+1639073463 source:/home/axiscuber/Desktop/code_blocks/New_Search_Vu/RP.cpp
+	"RP.h"
+
