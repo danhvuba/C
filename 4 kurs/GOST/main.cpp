@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -88,7 +88,6 @@ int main()
     K[7] = 0xfcfdfeff;
     uint64_t a = 0xfedcba9876543210;
     uint64_t b = Encrypt(a, K);
-    printf("0x%lx\n", b);
-    printf("0x%lx\n", Decrypt(b, K));
-  //ok
+    printf("encrypt   0x%lx  ---> 0x%lx\n", a, b);
+    printf("decrypt   0x%lx\n", Decrypt(b, K));
 }
