@@ -23,6 +23,7 @@ uint32_t Function_t(uint32_t a)
     return res;
 }
 
+// add modules 2^32
 // uint32_t Add(uint32_t x, uint32_t y)
 // {
 //     int a = (x >> 31) & 1;
